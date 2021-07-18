@@ -1,46 +1,107 @@
-<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+<html>
 
-<div class="wrapper">
-    <div class="left">
-        <img src="https://i.imgur.com/cMy8V5j.png" alt="user" width="100">
-        <h4>Alex William</h4>
-         <p>UI Developer</p>
+<head>
+ <title>Profile card</title>
+ <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> 
+</head>
+
+<body>
+
+ <div class="wrapper">
+
+
+  <div class="profile-card js-profile-card">
+   <div class="profile-card__img">
+    <img src="../shakti.webp" alt="profile">
+   </div>
+
+   <div class="profile-card__cnt js-profile-cnt">
+    <div class="profile-card__name">Shakti Mohan</div>
+    <div class="profile-card__txt">Indian Dancer,<strong>Television Personality</strong></div>
+    <div class="profile-card-loc">
+     <span class="profile-card-loc__icon">
+      <img src="../location.webp" height="40px" width="40px">
+     </span>
+
+     <span class="profile-card-loc__txt">
+      Mumbai, India
+     </span>
     </div>
-    <div class="right">
-        <div class="info">
-            <h3>Information</h3>
-            <div class="info_data">
-                 <div class="data">
-                    <h4>Email</h4>
-                    <p>alex@gmail.com</p>
-                 </div>
-                 <div class="data">
-                   <h4>Phone</h4>
-                    <p>0001-213-998761</p>
-              </div>
-            </div>
-        </div>
-      
-      <div class="projects">
-            <h3>Projects</h3>
-            <div class="projects_data">
-                 <div class="data">
-                    <h4>Recent</h4>
-                    <p>Lorem ipsum dolor sit amet.</p>
-                 </div>
-                 <div class="data">
-                   <h4>Most Viewed</h4>
-                    <p>dolor sit amet.</p>
-              </div>
-            </div>
-        </div>
-      
-        <div class="social_media">
-            <ul>
-              <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-              <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-              <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-          </ul>
-      </div>
+
+    <div class="profile-card-inf">
+     <div class="profile-card-inf__item">
+      <div class="profile-card-inf__title">5M+</div>
+      <div class="profile-card-inf__txt">Followers</div>
+     </div>
+
+     <div class="profile-card-inf__item">
+      <div class="profile-card-inf__title">615</div>
+      <div class="profile-card-inf__txt">Following</div>
+     </div>
+
+     <div class="profile-card-inf__item">
+      <div class="profile-card-inf__title">123</div>
+      <div class="profile-card-inf__txt">Show Performs</div>
+     </div>
+
+     <div class="profile-card-inf__item">
+      <div class="profile-card-inf__title">85</div>
+      <div class="profile-card-inf__txt">Movies</div>
+     </div>
     </div>
-</div>
+
+    <div class="profile-card-social">
+     <a href="#" class="profile-card-social__item facebook">
+      <span class="icon-font">
+       <i class="fa fa-facebook icon "></i>
+      </span>
+     </a>
+
+     <a href="#" class="profile-card-social__item twitter">
+      <span class="icon-font">
+       <i class="fa fa-twitter icon "></i>
+      </span>
+     </a>
+
+     <a href="#" class="profile-card-social__item instagram">
+      <span class="icon-font">
+       <i class="fa fa-instagram icon "></i>
+      </span>
+     </a>
+
+     <a href="#" class="profile-card-social__item behance">
+      <span class="icon-font">
+       <i class="fa fa-google icon "></i>
+      </span>
+     </a>
+
+     <a href="#" class="profile-card-social__item github">
+      <span class="icon-font">
+       <i class="fa fa-youtube icon "></i>
+      </span>
+     </a>
+
+     <a href="#" class="profile-card-social__item codepen">
+      <span class="icon-font">
+       <i class="fa fa-pinterest icon "></i>
+      </span>
+     </a>
+
+     <a href="#" class="profile-card-social__item link">
+      <span class="icon-font">
+       <i class="fa fa-behance icon "></i>
+      </span>
+     </a>
+
+    </div>
+
+    <div class="profile-card-ctr">
+     <button class="profile-card__button button--blue js-message-btn">Message</button>
+     <button class="profile-card__button button--orange">Follow</button>
+    </div>
+   </div>
+  </div>
+ </div>
+</body>
+
+</html
