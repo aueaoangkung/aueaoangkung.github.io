@@ -6,12 +6,12 @@
 <body>
 
   <div class="row py-10 px-8">
-    <div class="col-md-12 mx-auto">
+    <div class="col-md-10 mx-auto">
         <!-- Profile widget -->
         <div class="bg-white shadow rounded overflow-hidden">
             <div class="px-8 pt-0 pb-8 cover">
                 <div class="media align-items-end profile-head">
-                    <div class="profile mr-3"><img src="E:\Picture\DSC_0007" alt="..." width="130" class="rounded mb-2 img-thumbnail"><a href="#" class="btn btn-outline-dark btn-sm btn-block">Edit profile</a></div>
+                    <div class="profile mr-3"><img src="Picture\DSC_0007.jpg" alt="..." width="130" class="rounded mb-2 img-thumbnail"><a href="#" class="btn btn-outline-dark btn-sm btn-block">Edit profile</a></div>
                     <div class="media-body mb-5 text-white">
                         <h4 class="mt-0 mb-0">Aueaoangkun Sroiaudom</h4>
                         <p class="small mb-4"> <i class="fas fa-map-marker-alt mr-2"></i>Thailand</p>
@@ -44,10 +44,10 @@
                     <h5 class="mb-0">Recent photos</h5><a href="#" class="btn btn-link text-muted">Show all</a>
                 </div>
                 <div class="row">
-                    <div class="col-lg-6 mb-2 pr-lg-1"><img src="E:\Picture\DSC_0008" alt="" class="img-fluid rounded shadow-sm"></div>
-                    <div class="col-lg-6 mb-2 pl-lg-1"><img src="E:\Picture\333" alt="" class="img-fluid rounded shadow-sm"></div>
-                    <div class="col-lg-6 pr-lg-1 mb-2"><img src="E:\Picture\DSC_0145" alt="" class="img-fluid rounded shadow-sm"></div>
-                    <div class="col-lg-6 pl-lg-1"><img src="E:\Picture\DSC_0070" alt="" class="img-fluid rounded shadow-sm"></div>
+                    <div class="col-lg-6 mb-2 pr-lg-1"><img src="Picture\DSC_0008.jpg" alt="" class="img-fluid rounded shadow-sm"></div>
+                    <div class="col-lg-6 mb-2 pl-lg-1"><img src="Picture\333.jpg" alt="" class="img-fluid rounded shadow-sm"></div>
+                    <div class="col-lg-6 pr-lg-1 mb-2"><img src="Picture\DSC_0145.jpg" alt="" class="img-fluid rounded shadow-sm"></div>
+                    <div class="col-lg-6 pl-lg-1"><img src="Picture\DSC_0070.jpg" alt="" class="img-fluid rounded shadow-sm"></div>
                 </div>
             </div>
         </div>
