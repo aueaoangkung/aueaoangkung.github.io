@@ -9,7 +9,7 @@
     <div class="col-md-11 mx-auto">
         <!-- Profile widget -->
         <div class="bg-white shadow rounded overflow-hidden">
-            <div class="px-4 pt-0 pb-4 cover">
+            <div class="px-4 pt-0 pb-5 cover">
                 <div class="media align-items-end profile-head">
                     <div class="profile mr-3"><img src="Picture\DSC_0007.jpg" alt="..." width="140" class="rounded mb-3 img-thumbnail"><a href="#" class="btn btn-outline-dark btn-sm btn-block">Edit profile</a></div>
                     <div class="media-body mb-4 text-white">
