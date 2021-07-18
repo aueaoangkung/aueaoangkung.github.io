@@ -5,14 +5,14 @@
 </head>
 <body>
 
-  <div class="row py-10 px-8">
-    <div class="col-md-11 mx-auto">
+<div class="row py-5 px-4">
+    <div class="col-md-5 mx-auto">
         <!-- Profile widget -->
         <div class="bg-white shadow rounded overflow-hidden">
-            <div class="px-4 pt-0 pb-5 cover">
+            <div class="px-4 pt-0 pb-4 cover">
                 <div class="media align-items-end profile-head">
-                    <div class="profile mr-3"><img src="Picture\DSC_0007.jpg" alt="..." width="140" class="rounded mb-3 img-thumbnail"><a href="#" class="btn btn-outline-dark btn-sm btn-block">Edit profile</a></div>
-                    <div class="media-body mb-4 text-white">
+                    <div class="profile mr-3"><img src="Picture\DSC_0148.jpg" alt="..." width="130" class="rounded mb-2 img-thumbnail"><a href="#" class="btn btn-outline-dark btn-sm btn-block">Edit profile</a></div>
+                    <div class="media-body mb-5 text-white">
                         <h4 class="mt-0 mb-0">Aueaoangkun Sroiaudom</h4>
                         <p class="small mb-4"> <i class="fas fa-map-marker-alt mr-2"></i>Thailand</p>
                     </div>
@@ -24,17 +24,17 @@
                         <h5 class="font-weight-bold mb-0 d-block">4</h5><small class="text-muted"> <i class="fas fa-image mr-1"></i>Photos</small>
                     </li>
                     <li class="list-inline-item">
-                        <h5 class="font-weight-bold mb-0 d-block">100</h5><small class="text-muted"> <i class="fas fa-user mr-1"></i>Followers</small>
+                        <h5 class="font-weight-bold mb-0 d-block">1</h5><small class="text-muted"> <i class="fas fa-user mr-1"></i>Followers</small>
                     </li>
                     <li class="list-inline-item">
-                        <h5 class="font-weight-bold mb-0 d-block">120</h5><small class="text-muted"> <i class="fas fa-user mr-1"></i>Following</small>
+                        <h5 class="font-weight-bold mb-0 d-block">1</h5><small class="text-muted"> <i class="fas fa-user mr-1"></i>Following</small>
                     </li>
                 </ul>
             </div>
             <div class="px-4 py-3">
                 <h5 class="mb-0">About</h5>
                 <div class="p-4 rounded shadow-sm bg-light">
-                    <p class="font-italic mb-0">My nickname Fin</p>
+                    <p class="font-italic mb-0">Fin</p>
                     <p class="font-italic mb-0">Age 20</p>
                     <p class="font-italic mb-0">Man 100%</p>
                 </div>
