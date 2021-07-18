@@ -6,10 +6,10 @@
 <body>
 
   <div class="row py-10 px-8">
-    <div class="col-md-5 mx-auto">
+    <div class="col-md-8 mx-auto">
         <!-- Profile widget -->
         <div class="bg-white shadow rounded overflow-hidden">
-            <div class="px-4 pt-0 pb-4 cover">
+            <div class="px-8 pt-0 pb-8 cover">
                 <div class="media align-items-end profile-head">
                     <div class="profile mr-3"><img src="https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80" alt="..." width="130" class="rounded mb-2 img-thumbnail"><a href="#" class="btn btn-outline-dark btn-sm btn-block">Edit profile</a></div>
                     <div class="media-body mb-5 text-white">
