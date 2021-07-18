@@ -1,107 +1,60 @@
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
- <title>Profile card</title>
- <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> 
+  <link href="aboutme.html">
 </head>
-
 <body>
 
- <div class="wrapper">
-
-
-  <div class="profile-card js-profile-card">
-   <div class="profile-card__img">
-    <img src="../shakti.webp" alt="profile">
-   </div>
-
-   <div class="profile-card__cnt js-profile-cnt">
-    <div class="profile-card__name">Shakti Mohan</div>
-    <div class="profile-card__txt">Indian Dancer,<strong>Television Personality</strong></div>
-    <div class="profile-card-loc">
-     <span class="profile-card-loc__icon">
-      <img src="../location.webp" height="40px" width="40px">
-     </span>
-
-     <span class="profile-card-loc__txt">
-      Mumbai, India
-     </span>
+  <div class="page-content page-container" id="page-content">
+    <div class="padding">
+        <div class="row container d-flex justify-content-center">
+            <div class="col-xl-6 col-md-12">
+                <div class="card user-card-full">
+                    <div class="row m-l-0 m-r-0">
+                        <div class="col-sm-4 bg-c-lite-green user-profile">
+                            <div class="card-block text-center text-white">
+                                <div class="m-b-25"> <img src="https://img.icons8.com/bubbles/100/000000/user.png" class="img-radius" alt="User-Profile-Image"> </div>
+                                <h6 class="f-w-600">Hembo Tingor</h6>
+                                <p>Web Designer</p> <i class=" mdi mdi-square-edit-outline feather icon-edit m-t-10 f-16"></i>
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="card-block">
+                                <h6 class="m-b-20 p-b-5 b-b-default f-w-600">Information</h6>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <p class="m-b-10 f-w-600">Email</p>
+                                        <h6 class="text-muted f-w-400">rntng@gmail.com</h6>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <p class="m-b-10 f-w-600">Phone</p>
+                                        <h6 class="text-muted f-w-400">98979989898</h6>
+                                    </div>
+                                </div>
+                                <h6 class="m-b-20 m-t-40 p-b-5 b-b-default f-w-600">Projects</h6>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <p class="m-b-10 f-w-600">Recent</p>
+                                        <h6 class="text-muted f-w-400">Sam Disuja</h6>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <p class="m-b-10 f-w-600">Most Viewed</p>
+                                        <h6 class="text-muted f-w-400">Dinoter husainm</h6>
+                                    </div>
+                                </div>
+                                <ul class="social-link list-unstyled m-t-40 m-b-10">
+                                    <li><a href="#!" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="facebook" data-abc="true"><i class="mdi mdi-facebook feather icon-facebook facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href="#!" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="twitter" data-abc="true"><i class="mdi mdi-twitter feather icon-twitter twitter" aria-hidden="true"></i></a></li>
+                                    <li><a href="#!" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="instagram" data-abc="true"><i class="mdi mdi-instagram feather icon-instagram instagram" aria-hidden="true"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
+</div>
 
-    <div class="profile-card-inf">
-     <div class="profile-card-inf__item">
-      <div class="profile-card-inf__title">5M+</div>
-      <div class="profile-card-inf__txt">Followers</div>
-     </div>
-
-     <div class="profile-card-inf__item">
-      <div class="profile-card-inf__title">615</div>
-      <div class="profile-card-inf__txt">Following</div>
-     </div>
-
-     <div class="profile-card-inf__item">
-      <div class="profile-card-inf__title">123</div>
-      <div class="profile-card-inf__txt">Show Performs</div>
-     </div>
-
-     <div class="profile-card-inf__item">
-      <div class="profile-card-inf__title">85</div>
-      <div class="profile-card-inf__txt">Movies</div>
-     </div>
-    </div>
-
-    <div class="profile-card-social">
-     <a href="#" class="profile-card-social__item facebook">
-      <span class="icon-font">
-       <i class="fa fa-facebook icon "></i>
-      </span>
-     </a>
-
-     <a href="#" class="profile-card-social__item twitter">
-      <span class="icon-font">
-       <i class="fa fa-twitter icon "></i>
-      </span>
-     </a>
-
-     <a href="#" class="profile-card-social__item instagram">
-      <span class="icon-font">
-       <i class="fa fa-instagram icon "></i>
-      </span>
-     </a>
-
-     <a href="#" class="profile-card-social__item behance">
-      <span class="icon-font">
-       <i class="fa fa-google icon "></i>
-      </span>
-     </a>
-
-     <a href="#" class="profile-card-social__item github">
-      <span class="icon-font">
-       <i class="fa fa-youtube icon "></i>
-      </span>
-     </a>
-
-     <a href="#" class="profile-card-social__item codepen">
-      <span class="icon-font">
-       <i class="fa fa-pinterest icon "></i>
-      </span>
-     </a>
-
-     <a href="#" class="profile-card-social__item link">
-      <span class="icon-font">
-       <i class="fa fa-behance icon "></i>
-      </span>
-     </a>
-
-    </div>
-
-    <div class="profile-card-ctr">
-     <button class="profile-card__button button--blue js-message-btn">Message</button>
-     <button class="profile-card__button button--orange">Follow</button>
-    </div>
-   </div>
-  </div>
- </div>
 </body>
-
-</html
+</html>
