@@ -6,7 +6,7 @@
 <body>
 
   <div class="row py-10 px-8">
-    <div class="col-md-8 mx-auto">
+    <div class="col-md-12 mx-auto">
         <!-- Profile widget -->
         <div class="bg-white shadow rounded overflow-hidden">
             <div class="px-8 pt-0 pb-8 cover">
