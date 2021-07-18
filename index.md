@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
@@ -6,7 +5,7 @@
 </head>
 <body>
 
-  <div class="row py-5 px-4">
+  <div class="row py-10 px-8">
     <div class="col-md-5 mx-auto">
         <!-- Profile widget -->
         <div class="bg-white shadow rounded overflow-hidden">
@@ -35,7 +34,7 @@
             <div class="px-4 py-3">
                 <h5 class="mb-0">About</h5>
                 <div class="p-4 rounded shadow-sm bg-light">
-                    <p class="font-italic mb-0">Mynickname Fin</p>
+                    <p class="font-italic mb-0">My nickname Fin</p>
                     <p class="font-italic mb-0">Age 20</p>
                     <p class="font-italic mb-0">Man 100%</p>
                 </div>
