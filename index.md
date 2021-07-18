@@ -1,10 +1,8 @@
 <html lang="en">
-<section class="styles.css">
 <head>
   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="styles.css">
 </head>
-</section>
 <body>
 
 <div class="row py-5 px-4">
