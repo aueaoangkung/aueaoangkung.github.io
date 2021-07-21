@@ -12,7 +12,7 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img src="..." class="card-img-top" alt="...">
+  <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
         <div class="card-body">
     <h5 class="card-title">About me page</h5>
     <p class="card-text">.....</p>
@@ -24,7 +24,7 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img src="..." class="card-img-top" alt="...">
+  <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
         <div class="card-body">
     <h5 class="card-title">Bootstrap</h5>
     <p class="card-text">.....</p>
@@ -36,7 +36,7 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img src="..." class="card-img-top" alt="...">
+  <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
         <div class="card-body">
     <h5 class="card-title">JavaScript</h5>
     <p class="card-text">.....</p>
@@ -48,7 +48,7 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img src="..." class="card-img-top" alt="...">
+  <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
         <div class="card-body">
     <h5 class="card-title">Final Project</h5>
     <p class="card-text">.....</p>
