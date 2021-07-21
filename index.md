@@ -13,7 +13,7 @@
       <div class="col-sm-12 col-md-6 col-lg-3">
         <div class="card mb-3">
           <img
-            src="รูปภาพ/pexels-fauxels-3183198.jpg"
+            src="Picture\DSC_0148.jpg"
             class="card-img-top"
             alt="..."
           />
@@ -83,6 +83,5 @@
         </div>
       </div>
     </div>
-    
 </body>
 </html>
