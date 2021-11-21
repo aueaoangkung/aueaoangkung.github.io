@@ -59,7 +59,7 @@
         <div class="card-body">
     <h5 class="card-title">3D Training</h5>
     <p class="card-text"></p>
-    <a href="#" class="btn btn-primary">Go watch</a>
+    <a href="3d.html" class="btn btn-primary">Go watch</a>
         </div>
       </div>
     </div>
