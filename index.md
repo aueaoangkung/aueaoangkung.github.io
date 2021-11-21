@@ -26,7 +26,7 @@
         <div class="card-body">
     <h5 class="card-title">TODO application on JS</h5>
     <p class="card-text"></p>
-    <a href="Todo/todo.html" class="btn btn-primary">Go watch</a>
+    <a href="#" class="btn btn-primary">Go watch</a>
         </div>
       </div>
     </div>
@@ -48,7 +48,7 @@
         <div class="card-body">
     <h5 class="card-title">React Todo Application</h5>
     <p class="card-text"></p>
-    <a href="#" class="btn btn-primary">Go watch</a>
+    <a href="Todo/todo.html" class="btn btn-primary">Go watch</a>
         </div>
       </div>
     </div>
