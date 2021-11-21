@@ -12,10 +12,9 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img  class="card-img-top" alt="...">
         <div class="card-body">
     <h5 class="card-title">About me page</h5>
-    <p class="card-text">.....</p>
+    <p class="card-text"></p>
     <a href="aboutme.html" class="btn btn-primary">Go watch</a>
         </div>
       </div>
@@ -24,10 +23,9 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-    <h5 class="card-title">Bootstrap</h5>
-    <p class="card-text">.....</p>
+    <h5 class="card-title">TODO application on JS with DOM</h5>
+    <p class="card-text"></p>
     <a href="#" class="btn btn-primary">Go watch</a>
         </div>
       </div>
@@ -36,10 +34,9 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-    <h5 class="card-title">JavaScript</h5>
-    <p class="card-text">.....</p>
+    <h5 class="card-title">React Shopping Cart</h5>
+    <p class="card-text"></p>
     <a href="#" class="btn btn-primary">Go watch</a>
         </div>
       </div>
@@ -48,10 +45,42 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-    <h5 class="card-title">Final Project</h5>
-    <p class="card-text">.....</p>
+    <h5 class="card-title">React Todo Application</h5>
+    <p class="card-text"></p>
+    <a href="#" class="btn btn-primary">Go watch</a>
+        </div>
+      </div>
+    </div>
+  </div>
+    <div class="row">
+    <div class="col-sm-10 col-md-6 col-lg-12">
+      <div class="card mb-3">
+        <div class="card-body">
+    <h5 class="card-title">3D Training</h5>
+    <p class="card-text"></p>
+    <a href="#" class="btn btn-primary">Go watch</a>
+        </div>
+      </div>
+    </div>
+  </div>
+    <div class="row">
+    <div class="col-sm-10 col-md-6 col-lg-12">
+      <div class="card mb-3">
+        <div class="card-body">
+    <h5 class="card-title">Node JS API</h5>
+    <p class="card-text"></p>
+    <a href="#" class="btn btn-primary">Go watch</a>
+        </div>
+      </div>
+    </div>
+  </div>
+    <div class="row">
+    <div class="col-sm-10 col-md-6 col-lg-12">
+      <div class="card mb-3">
+        <div class="card-body">
+    <h5 class="card-title">React and Node API งานคู่</h5>
+    <p class="card-text"></p>
     <a href="#" class="btn btn-primary">Go watch</a>
         </div>
       </div>
