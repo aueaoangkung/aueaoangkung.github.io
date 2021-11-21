@@ -48,7 +48,7 @@
         <div class="card-body">
     <h5 class="card-title">React Todo Application</h5>
     <p class="card-text"></p>
-    <a href="https://github.com/aueaoangkung/aueaoangkung.github.io/tree/gh-pages/todoapp" ></a>
+    <a href="https://github.com/aueaoangkung/aueaoangkung.github.io/tree/gh-pages/todoapp" >todoapp</a>
         </div>
       </div>
     </div>
