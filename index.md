@@ -24,9 +24,9 @@
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
         <div class="card-body">
-    <h5 class="card-title">TODO application on JS with DOM</h5>
+    <h5 class="card-title">TODO application on JS</h5>
     <p class="card-text"></p>
-    <a href="#" class="btn btn-primary">Go watch</a>
+    <a href="Todo/todo.html" class="btn btn-primary">Go watch</a>
         </div>
       </div>
     </div>
