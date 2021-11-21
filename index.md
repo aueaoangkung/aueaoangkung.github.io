@@ -37,7 +37,7 @@
         <div class="card-body">
     <h5 class="card-title">React Shopping Cart</h5>
     <p class="card-text"></p>
-    <a href="#" class="btn btn-primary">Go watch</a>
+    <a href="https://github.com/aueaoangkung/shop" class="btn btn-primary">Go watch</a>
         </div>
       </div>
     </div>
