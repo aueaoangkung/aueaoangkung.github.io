@@ -15,7 +15,7 @@ showTasks();
 addBtn.onclick = ()=>{ 
   let userEnteredValue = inputBox.value; 
   let getLocalStorageData = localStorage.getItem("New Todo"); 
-  if(getLocalStorageData == null){ /
+  if(getLocalStorageData == null){ 
     listArray = []; 
   }else{
     listArray = JSON.parse(getLocalStorageData);  
