@@ -79,9 +79,9 @@
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
         <div class="card-body">
-    <h5 class="card-title">React and Node API งานคู่</h5>
+    <h5 class="card-title">Project</h5>
     <p class="card-text"></p>
-    <a href="#" class="btn btn-primary">Go watch</a>
+    <a href="https://github.com/aueaoangkung/Project.git" class="btn btn-primary">Go watch</a>
         </div>
       </div>
     </div>
